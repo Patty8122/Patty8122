@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Divya! 👋<br><br>- Software Engineer from The University of Chicago (MS in CS) and IIT Bombay (BTech)<br>- My current goal is to become a cracked engineer by the end of 2025<br>- I'm learning data-driven development<br>
+Hi, I'm Divya! 👋<br><br>- Software Engineer from The University of Chicago (MS in CS) and IIT Bombay (BTech)<br>- Professional thief of moments of happiness<br>- My current goal is to become a cracked engineer by the end of 2025<br>- I'm learning data-driven development<br>
 
 
 ## 🌐 Socials:
